@@ -1,6 +1,7 @@
 {
 	"author": "Dhyani",
 	"name": "fcc-learn-npm-package-json",
+	"description": "An intro to managing npm",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
